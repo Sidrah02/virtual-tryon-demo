@@ -66,4 +66,4 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 -   **State Management**: Handling complex transformation state (rotation, scale, position) across components.
 
 ---
-*Built by Sidrah via Antigravity*
+*Built by Sidrah*
